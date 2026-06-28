@@ -5,6 +5,8 @@
 **Company**: Celebal Technologies Private Limited  
 **Start Date**: 15 Jun 2026
 
+Welcome to my Celebal Excellence Internship (CEI) learning portfolio! This repository holds all my assignments, tasks, and learning materials completed during my internship.
+
 ---
 
 ## 📌 Program Overview
@@ -29,5 +31,6 @@ This structured internship combines guided learning, mentorship, and hands-on pr
 
 ## 📂 Repository Structure
 
-* **[Week-1](./Week-1/readme.md)**: Python Basics and Pandas Data Exploration
+* **[Week-1](./Week-1/)**: Python Basics and Pandas Data Exploration
+* **[Week-2](./Week-2/)**: Contains the E-Commerce Sales Database assignment, including SQL schemas, queries, and a Jupyter Notebook documenting my work.
 * *(More weeks will be added as the internship progresses)*
