@@ -33,4 +33,5 @@ This structured internship combines guided learning, mentorship, and hands-on pr
 
 * **[Week-1](./Week-1/)**: Python Basics and Pandas Data Exploration
 * **[Week-2](./Week-2/)**: Contains the E-Commerce Sales Database assignment, including SQL schemas, queries, and a Jupyter Notebook documenting my work.
+* **[Week-3](./Week-3/)**: Analyzed Superstore sales data using advanced SQL concepts (Subqueries, CTEs, Window Functions) and Python preprocessing.
 * *(More weeks will be added as the internship progresses)*
