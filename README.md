@@ -31,7 +31,9 @@ This structured internship combines guided learning, mentorship, and hands-on pr
 
 ## 📂 Repository Structure
 
-* **[Week-1](./Week-1/)**: Python Basics and Pandas Data Exploration
-* **[Week-2](./Week-2/)**: Contains the E-Commerce Sales Database assignment, including SQL schemas, queries, and a Jupyter Notebook documenting my work.
-* **[Week-3](./Week-3/)**: Analyzed Superstore sales data using advanced SQL concepts (Subqueries, CTEs, Window Functions) and Python preprocessing.
+* **[Week 1: Python Basics & Pandas](./Week-1/)** - Data exploration and cleaning using Pandas.
+* **[Week 2: SQL E-Commerce Database](./Week-2/)** - E-Commerce Sales Database assignment, including SQL schemas and queries.
+* **[Week 3: Advanced SQL Data Analysis](./Week-3/)** - Analyzed Superstore sales data using Subqueries, CTEs, and Window Functions.
+* **[Week 4: Azure Data Factory Pipeline](./Week-4/)** - Built an end-to-end data pipeline using Azure Storage and ADF.
+
 * *(More weeks will be added as the internship progresses)*
