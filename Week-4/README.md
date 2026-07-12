@@ -100,6 +100,7 @@ Week-4/
 │
 ├── README.md
 ├── Week4_Assignment.ipynb
+├── Week4_Assignment.pdf
 ├── DataSet/
 │   └── superstore.csv
 ├── Resource/
@@ -110,6 +111,7 @@ Week-4/
 
 ## File Description
 - **[`Week4_Assignment.ipynb`](./Week4_Assignment.ipynb)**: The Jupyter Notebook version of this README, documenting all steps.
+- **[`Week4_Assignment.pdf`](./Week4_Assignment.pdf)**: The exported PDF document containing the full assignment report with screenshots.
 - **[`DataSet/superstore.csv`](./DataSet/superstore.csv)**: The raw dataset uploaded to Azure Blob Storage.
 - **[`Resource/Week 4 Task.pdf`](./Resource/Week%204%20Task.pdf)**: The official assignment tasks and guidelines for Week 4.
 - **`Screenshots/`**: Directory containing all step-by-step pipeline execution screenshots.
