@@ -121,11 +121,10 @@ Since the dataset's real column names don't match the wording used in the assign
 
 | File | Description |
 |---|---|
-| [Notebook](notebook/week5_spark_assignment.ipynb) | Full PySpark solution — all 15 questions |
+| [Notebook](Week5_Spark_Assignment.ipynb) | Full PySpark solution — all 15 questions |
 | [Dataset](DataSet/retail_data.csv) | Retail Analysis Large Dataset (CSV) |
-| [Assignment Questions (PDF)](docs/Week5_Questions.pdf) | Original questions document |
-| [Week 5 Assessment (PDF)](docs/Week5_Assessment.pdf) | Week 5 assessment document |
-| [Cleaned Output](output/cleaned_dataset.csv) | Dataset after cleaning + aggregation |
+| [Assignment Questions (PDF)](Week5_Questions.pdf) | Original questions document |
+| [Cleaned Output](cleaned_dataset.csv) | Dataset after cleaning + aggregation |
 
 > File names above assume the folder structure below. Rename the paths in this README if your actual file names differ.
 
@@ -139,15 +138,11 @@ Week-05-Spark-DataFrame-Processing/
 ├── DataSet/
 │   └── retail_data.csv
 │
-├── notebook/
-│   └── week5_spark_assignment.ipynb
+├── Week5_Spark_Assignment.ipynb
 │
-├── docs/
-│   ├── Week5_Questions.pdf
-│   └── Week5_Assessment.pdf
+├── Week5_Questions.pdf
 │
-├── output/
-│   └── cleaned_dataset.csv
+├── cleaned_dataset.csv
 │
 └── README.md
 ```
@@ -162,11 +157,3 @@ Week-05-Spark-DataFrame-Processing/
 - 🔀 `groupBy()` operations trigger a **shuffle** across partitions.
 - 🧬 Inconsistent date formats break `inferSchema` — explicit parsing (`to_timestamp`) is safer.
 - 🏗️ Building an **end-to-end pipeline** ties cleaning and aggregation into one reusable flow.
-
----
-
-<div align="center">
-
-**Week-05 Assignment · Celebal Technologies Data Engineering Internship**
-
-</div>
