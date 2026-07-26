@@ -36,5 +36,6 @@ This structured internship combines guided learning, mentorship, and hands-on pr
 * **[Week 3: Advanced SQL Data Analysis](./Week-3/)** - Analyzed Superstore sales data using Subqueries, CTEs, and Window Functions.
 * **[Week 4: Azure Data Factory Pipeline](./Week-4/)** - Built an end-to-end data pipeline using Azure Storage and ADF.
 * **[Week 5: Apache Spark - Data Cleaning, Transformation & Aggregation using DataFrames](./Week-5/)** - Data cleaning, transformation and aggregation using Spark DataFrames.
+* **[Week 6: Apache Spark Fundamentals](./Week-6/)** - Explored Spark architecture, lazy evaluation, DataFrame transformations, schema handling, CSV & Parquet file processing, filtering, and Spark performance optimization.
 
 * *(More weeks will be added as the internship progresses)*
