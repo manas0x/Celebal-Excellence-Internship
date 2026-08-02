@@ -1,0 +1,56 @@
+customer_id,customer_name,city,segment,email,signup_date,total_orders,lifetime_value
+CUST-1113,Karan Menon,Mumbai,Corporate,karan.menon@example.com,2024-05-08,30,1496.54
+CUST-1160,Neha Joshi,Kolkata,Consumer,neha.joshi@example.com,2024-06-11,22,3842.09
+CUST-1121,Ishaan Verma,Jaipur,Corporate,ishaan.verma@example.com,2022-05-06,24,4195.14
+CUST-1182,Karan Das,Lucknow,Corporate,karan.das@example.com,2022-11-28,35,890.17
+CUST-1136,Vikram Gupta,Chennai,Home Office,vikram.gupta@example.com,2023-11-14,18,2437.42
+CUST-1138,Sneha Reddy,Delhi,Home Office,sneha.reddy@example.com,2022-11-09,32,4074.53
+CUST-2017,Ananya Chopra,Pune,Home Office,,2026-07-01,3,364.42
+CUST-2006,Sara Menon,Lucknow,Consumer,,2026-07-01,4,579.09
+CUST-2002,Riya Malhotra,Mumbai,Consumer,,2026-07-01,1,401.78
+CUST-1169,Diya Gupta,Delhi,Corporate,diya.gupta@example.com,2022-07-12,37,1489.33
+CUST-1042,Ananya Pillai,Chennai,Corporate,ananya.pillai@example.com,2024-02-10,47,1851.02
+CUST-2001,Sara Bose,Bengaluru,Consumer,,2026-07-01,1,461.19
+CUST-1162,Sara Verma,Ahmedabad,Corporate,sara.verma@example.com,2024-04-08,13,5310.67
+CUST-2004,Rohan Pillai,Ahmedabad,Corporate,,2026-07-01,4,742.16
+CUST-2000,Aditya Verma,Bengaluru,Home Office,,2026-07-01,1,102.42
+CUST-1181,Rahul Menon,Hyderabad,Consumer,rahul.menon@example.com,2022-05-03,32,1914.64
+CUST-2012,Nikhil Chopra,Mumbai,Corporate,,2026-07-01,2,509.09
+CUST-2014,Neha Gupta,Delhi,Consumer,,2026-07-01,2,299.27
+CUST-1187,Vikram Iyer,Kolkata,Corporate,vikram.iyer@example.com,2023-11-08,57,223.92
+CUST-1064,Riya Kumar,Chennai,Corporate,riya.kumar@example.com,2022-10-13,40,1259.33
+CUST-2011,Nikhil Malhotra,Kolkata,Consumer,,2026-07-01,3,320.49
+CUST-2009,Vivaan Bose,Ahmedabad,Corporate,,2026-07-01,3,534.49
+CUST-2008,Diya Iyer,Pune,Corporate,,2026-07-01,3,114.97
+CUST-2019,Vivaan Chopra,Hyderabad,Consumer,,2026-07-01,4,62.71
+CUST-2015,Aarav Rao,Ahmedabad,Home Office,,2026-07-01,1,798.78
+CUST-2007,Meera Mehta,Kolkata,Corporate,,2026-07-01,1,128.96
+CUST-1168,Priya Chopra,Chennai,Home Office,priya.chopra@example.com,2023-01-20,52,3714.54
+CUST-2018,Pooja Verma,Ahmedabad,Corporate,,2026-07-01,1,623.22
+CUST-1146,Ananya Singh,Kolkata,Home Office,ananya.singh@example.com,2023-09-24,10,2449.81
+CUST-1085,Arjun Nair,Mumbai,Home Office,arjun.nair@example.com,2024-01-23,25,4508.51
+CUST-1077,Karan Joshi,Chennai,Consumer,karan.joshi@example.com,2022-04-12,29,3315.69
+CUST-2013,Ananya Verma,Chennai,Home Office,,2026-07-01,4,731.55
+CUST-1126,Neha Das,Bengaluru,Corporate,neha.das@example.com,2024-04-02,11,1764.77
+CUST-1034,Priya Das,Delhi,Home Office,priya.das@example.com,2023-10-02,35,1169.24
+CUST-1111,Ishaan Malhotra,Chennai,Corporate,ishaan.malhotra@example.com,2022-03-31,28,1290.52
+CUST-1021,Kavya Nair,Bengaluru,Consumer,kavya.nair@example.com,2023-05-27,52,4090.75
+CUST-2005,Diya Verma,Jaipur,Consumer,,2026-07-01,3,759.87
+CUST-2021,Sara Malhotra,Pune,Consumer,,2026-07-01,3,408.92
+CUST-2020,Kavya Singh,Kolkata,Home Office,,2026-07-01,2,416.0
+CUST-1190,Vikram Reddy,Ahmedabad,Consumer,vikram.reddy@example.com,2023-12-25,25,4562.7
+CUST-1132,Diya Das,Hyderabad,Consumer,diya.das@example.com,2024-06-07,58,4114.9
+CUST-2016,Neha Singh,Lucknow,Home Office,,2026-07-01,2,339.44
+CUST-1196,Neha Mehta,Ahmedabad,Home Office,neha.mehta@example.com,2022-05-12,40,5263.72
+CUST-1148,Rohan Patel,Bengaluru,Home Office,rohan.patel@example.com,2022-07-30,56,2306.51
+CUST-1173,Arjun Menon,Lucknow,Home Office,arjun.menon@example.com,2024-01-27,53,2914.65
+CUST-2024,Kavya Das,Jaipur,Corporate,,2026-07-01,2,36.05
+CUST-1058,Neha Singh,Ahmedabad,Home Office,neha.singh@example.com,2022-01-20,17,5224.22
+CUST-2003,Meera Reddy,Chennai,Consumer,,2026-07-01,3,534.86
+CUST-1114,Sara Nair,Mumbai,Corporate,sara.nair@example.com,2023-08-24,37,4128.12
+CUST-2010,Sneha Rao,Chennai,Home Office,,2026-07-01,4,550.82
+CUST-2022,Diya Rao,Delhi,Consumer,,2026-07-01,4,186.5
+CUST-1197,Diya Patel,Bengaluru,Corporate,diya.patel@example.com,2023-09-20,47,992.55
+CUST-1007,Rohan Iyer,Bengaluru,Consumer,rohan.iyer@example.com,2024-04-26,24,759.63
+CUST-2023,Kavya Sharma,Mumbai,Corporate,,2026-07-01,2,784.28
+CUST-1134,Neha Menon,Lucknow,Home Office,neha.menon@example.com,2023-09-17,44,3856.72

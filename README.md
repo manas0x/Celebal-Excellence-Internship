@@ -37,5 +37,6 @@ This structured internship combines guided learning, mentorship, and hands-on pr
 * **[Week 4: Azure Data Factory Pipeline](./Week-4/)** - Built an end-to-end data pipeline using Azure Storage and ADF.
 * **[Week 5: Apache Spark - Data Cleaning, Transformation & Aggregation using DataFrames](./Week-5/)** - Data cleaning, transformation and aggregation using Spark DataFrames.
 * **[Week 6: Apache Spark Fundamentals](./Week-6/)** - Explored Spark architecture, lazy evaluation, DataFrame transformations, schema handling, CSV & Parquet file processing, filtering, and Spark performance optimization.
+* **[Week 7: Delta Lake MERGE Implementation](./Week-7/)** - Performed incremental data processing on a customer dataset using Delta Lake, including data cleaning and an upsert MERGE operation to update existing records and insert new ones.
 
 * *(More weeks will be added as the internship progresses)*
