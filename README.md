@@ -38,5 +38,6 @@ This structured internship combines guided learning, mentorship, and hands-on pr
 * **[Week 5: Apache Spark - Data Cleaning, Transformation & Aggregation using DataFrames](./Week-5/)** - Data cleaning, transformation and aggregation using Spark DataFrames.
 * **[Week 6: Apache Spark Fundamentals](./Week-6/)** - Explored Spark architecture, lazy evaluation, DataFrame transformations, schema handling, CSV & Parquet file processing, filtering, and Spark performance optimization.
 * **[Week 7: Delta Lake MERGE Implementation](./Week-7/)** - Performed incremental data processing on a customer dataset using Delta Lake, including data cleaning and an upsert MERGE operation to update existing records and insert new ones.
+* **[Week 8: E-Commerce Order Analytics System](./Week-8/)** - Generated and cleaned sample e-commerce data, performed referential integrity checks, and answered business questions using SQL, including window functions, CTEs, and self-joins
 
 * *(More weeks will be added as the internship progresses)*

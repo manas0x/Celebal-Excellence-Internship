@@ -1,0 +1,541 @@
+product_id,product_name,category,subcategory,cost_price
+1,Popular Mobile,Electronics,Mobiles,342.49
+2,Skill Mobile,Electronics,Mobiles,94.13
+3,Activity Mobile,Electronics,Mobiles,91.66
+4,Behavior Mobile,Electronics,Mobiles,306.7
+5,Call Mobile,Electronics,Mobiles,194.36
+6,Him Mobile,Electronics,Mobiles,343.15
+7,Style Mobile,Electronics,Mobiles,251.35
+8,Response Mobile,Electronics,Mobiles,293.66
+9,Laugh Mobile,Electronics,Mobiles,119.93
+10,  VALUE MOBILE  ,Electronics,Mobiles,320.76
+11,Follow Mobile,Electronics,Mobiles,232.49
+12,Image Mobile,Electronics,Mobiles,335.09
+13,Easy Mobile,Electronics,Mobiles,449.96
+14,Away Mobile,Electronics,Mobiles,235.3
+15,Approach Mobile,Electronics,Mobiles,147.38
+16,Imagine Mobile,Electronics,Mobiles,275.57
+17,View Mobile,Electronics,Mobiles,41.56
+18,Quite Mobile,Electronics,Mobiles,472.89
+19,Others Mobile,Electronics,Mobiles,493.89
+20,Source Mobile,Electronics,Mobiles,153.08
+21,Success Mobile,Electronics,Mobiles,481.2
+22,Travel Mobile,Electronics,Mobiles,346.71
+23,Condition Mobile,Electronics,Mobiles,231.13
+24,Ago Mobile,Electronics,Mobiles,154.55
+25,Process Mobile,Electronics,Mobiles,499.69
+26,Listen Mobile,Electronics,Mobiles,427.4
+27,Spend Mobile,Electronics,Mobiles,57.79
+28,Enjoy Mobile,Electronics,Mobiles,193.78
+29,Act Mobile,Electronics,Mobiles,182.68
+30,Win Mobile,Electronics,Mobiles,151.46
+31,Talk Mobile,Electronics,Mobiles,351.14
+32,Here Mobile,Electronics,Mobiles,15.86
+33,Professor Mobile,Electronics,Mobiles,415.87
+34,Pay Mobile,Electronics,Mobiles,200.92
+35,  POLITICS MOBILE  ,Electronics,Mobiles,9.01
+36,Against Mobile,Electronics,Mobiles,433.21
+37,Sell Mobile,Electronics,Mobiles,390.26
+38,Use Mobile,Electronics,Mobiles,486.93
+39,Deep Mobile,Electronics,Mobiles,455.76
+40,To Mobile,Electronics,Mobiles,373.86
+41,Far Mobile,Electronics,Mobiles,417.26
+42,  REMEMBER MOBILE  ,Electronics,Mobiles,451.95
+43,Image Mobile,Electronics,Mobiles,388.99
+44,Every Mobile,Electronics,Mobiles,118.91
+45,Number Mobile,Electronics,Mobiles,401.96
+46,Nice Laptop,Electronics,Laptops,113.41
+47,Back Laptop,Electronics,Laptops,99.12
+48,  NATURAL LAPTOP  ,Electronics,Laptops,129.06
+49,Read Laptop,Electronics,Laptops,379.01
+50,Accept Laptop,Electronics,Laptops,384.9
+51,With Laptop,Electronics,Laptops,342.02
+52,Especially Laptop,Electronics,Laptops,72.71
+53,Foreign Laptop,Electronics,Laptops,53.1
+54,Above Laptop,Electronics,Laptops,315.59
+55,Factor Laptop,Electronics,Laptops,24.51
+56,Mention Laptop,Electronics,Laptops,395.36
+57,Painting Laptop,Electronics,Laptops,21.52
+58,Development Laptop,Electronics,Laptops,185.61
+59,Discussion Laptop,Electronics,Laptops,70.05
+60,Serious Laptop,Electronics,Laptops,455.27
+61,Study Laptop,Electronics,Laptops,166.73
+62,Practice Laptop,Electronics,Laptops,210.67
+63,  WELL LAPTOP  ,Electronics,Laptops,104.39
+64,Decade Laptop,Electronics,Laptops,394.32
+65,Child Laptop,Electronics,Laptops,438.85
+66,  KEEP LAPTOP  ,Electronics,Laptops,186.1
+67,Alone Laptop,Electronics,Laptops,253.39
+68,Subject Laptop,Electronics,Laptops,139.9
+69,Allow Laptop,Electronics,Laptops,86.45
+70,Suddenly Laptop,Electronics,Laptops,457.45
+71,Growth Laptop,Electronics,Laptops,472.37
+72,Operation Laptop,Electronics,Laptops,483.86
+73,Remain Laptop,Electronics,Laptops,151.1
+74,Fall Laptop,Electronics,Laptops,435.85
+75,Part Laptop,Electronics,Laptops,403.1
+76,And Laptop,Electronics,Laptops,236.82
+77,Statement Laptop,Electronics,Laptops,42.27
+78,Out Laptop,Electronics,Laptops,378.3
+79,Military Laptop,Electronics,Laptops,116.68
+80,Nothing Laptop,Electronics,Laptops,339.78
+81,Since Laptop,Electronics,Laptops,338.83
+82,Interview Laptop,Electronics,Laptops,201.72
+83,Guy Laptop,Electronics,Laptops,423.64
+84,To Laptop,Electronics,Laptops,280.87
+85,Exactly Laptop,Electronics,Laptops,49.7
+86,Mission Laptop,Electronics,Laptops,200.31
+87,Administration Laptop,Electronics,Laptops,135.91
+88,Majority Laptop,Electronics,Laptops,66.18
+89,Possible Laptop,Electronics,Laptops,187.45
+90,Possible Laptop,Electronics,Laptops,375.76
+91,Cause Accessorie,Electronics,Accessories,134.77
+92,Down Accessorie,Electronics,Accessories,193.61
+93,Maintain Accessorie,Electronics,Accessories,321.08
+94,Too Accessorie,Electronics,Accessories,188.88
+95,Upon Accessorie,Electronics,Accessories,339.04
+96,Scientist Accessorie,Electronics,Accessories,238.38
+97,Democrat Accessorie,Electronics,Accessories,311.68
+98,Seek Accessorie,Electronics,Accessories,471.87
+99,Trip Accessorie,Electronics,Accessories,167.36
+100,Data Accessorie,Electronics,Accessories,306.99
+101,East Accessorie,Electronics,Accessories,325.59
+102,Poor Accessorie,Electronics,Accessories,319.52
+103,Everybody Accessorie,Electronics,Accessories,234.81
+104,Region Accessorie,Electronics,Accessories,352.03
+105,Paper Accessorie,Electronics,Accessories,326.37
+106,Instead Accessorie,Electronics,Accessories,62.75
+107,Administration Accessorie,Electronics,Accessories,27.45
+108,  PROVE ACCESSORIE  ,Electronics,Accessories,23.42
+109,Church Accessorie,Electronics,Accessories,497.98
+110,Reflect Accessorie,Electronics,Accessories,62.48
+111,Despite Accessorie,Electronics,Accessories,121.23
+112,  DRIVE ACCESSORIE  ,Electronics,Accessories,271.09
+113,Lot Accessorie,Electronics,Accessories,197.38
+114,Consumer Accessorie,Electronics,Accessories,188.65
+115,Them Accessorie,Electronics,Accessories,474.94
+116,Like Accessorie,Electronics,Accessories,349.76
+117,Maintain Accessorie,Electronics,Accessories,272.4
+118,Class Accessorie,Electronics,Accessories,295.73
+119,Move Accessorie,Electronics,Accessories,364.67
+120,He Accessorie,Electronics,Accessories,443.28
+121,Together Accessorie,Electronics,Accessories,329.19
+122,Provide Accessorie,Electronics,Accessories,417.68
+123,Attorney Accessorie,Electronics,Accessories,309.75
+124,Current Accessorie,Electronics,Accessories,469.83
+125,Assume Accessorie,Electronics,Accessories,143.47
+126,Their Accessorie,Electronics,Accessories,346.69
+127,Hit Accessorie,Electronics,Accessories,112.55
+128,Church Accessorie,Electronics,Accessories,225.12
+129,  FOLLOW ACCESSORIE  ,Electronics,Accessories,121.88
+130,Must Accessorie,Electronics,Accessories,184.53
+131,Family Accessorie,Electronics,Accessories,490.56
+132,Mention Accessorie,Electronics,Accessories,186.83
+133,Better Accessorie,Electronics,Accessories,451.34
+134,  OIL ACCESSORIE  ,Electronics,Accessories,324.19
+135,Sing Accessorie,Electronics,Accessories,34.97
+136,  WORLD  ,Clothing,Men,141.56
+137,Pressure,Clothing,Men,484.26
+138,Process,Clothing,Men,474.76
+139,Challenge,Clothing,Men,412.97
+140,Admit,Clothing,Men,50.38
+141,Sometimes,Clothing,Men,109.99
+142,Product,Clothing,Men,321.55
+143,Movie,Clothing,Men,485.69
+144,My,Clothing,Men,30.04
+145,His,Clothing,Men,170.09
+146,Easy,Clothing,Men,494.47
+147,Step,Clothing,Men,394.55
+148,Democratic,Clothing,Men,106.58
+149,Tend,Clothing,Men,415.76
+150,Agent,Clothing,Men,279.33
+151,Food,Clothing,Men,295.26
+152,Bill,Clothing,Men,407.46
+153,Participant,Clothing,Men,120.33
+154,Magazine,Clothing,Men,388.31
+155,Quickly,Clothing,Men,395.38
+156,Us,Clothing,Men,300.01
+157,Explain,Clothing,Men,142.25
+158,Say,Clothing,Men,492.09
+159,Worry,Clothing,Men,493.83
+160,Yeah,Clothing,Men,272.41
+161,Republican,Clothing,Men,400.26
+162,Way,Clothing,Men,59.41
+163,Concern,Clothing,Men,433.89
+164,Game,Clothing,Men,70.24
+165,Trouble,Clothing,Men,182.33
+166,Moment,Clothing,Men,395.27
+167,Such,Clothing,Men,296.48
+168,Continue,Clothing,Men,12.81
+169,Investment,Clothing,Men,136.36
+170,Month,Clothing,Men,67.75
+171,Benefit,Clothing,Men,213.38
+172,Action,Clothing,Men,61.26
+173,Only,Clothing,Men,36.46
+174,  CONSUMER  ,Clothing,Men,226.9
+175,There,Clothing,Men,184.21
+176,Just,Clothing,Men,298.86
+177,Test,Clothing,Men,228.74
+178,Unit,Clothing,Men,114.67
+179,Similar,Clothing,Men,309.48
+180,  SUFFER  ,Clothing,Men,364.99
+181,Other,Clothing,Women,454.83
+182,Property,Clothing,Women,331.16
+183,Make,Clothing,Women,154.31
+184,Should,Clothing,Women,323.45
+185,Special,Clothing,Women,20.42
+186,Officer,Clothing,Women,499.3
+187,Society,Clothing,Women,424.41
+188,  OPEN  ,Clothing,Women,216.01
+189,There,Clothing,Women,58.44
+190,  WHOM  ,Clothing,Women,357.64
+191,Expect,Clothing,Women,224.56
+192,Course,Clothing,Women,450.14
+193,Mind,Clothing,Women,164.45
+194,Scientist,Clothing,Women,78.43
+195,Various,Clothing,Women,67.46
+196,Become,Clothing,Women,314.04
+197,Drive,Clothing,Women,294.76
+198,Positive,Clothing,Women,357.52
+199,Foreign,Clothing,Women,193.55
+200,Mother,Clothing,Women,300.71
+201,Into,Clothing,Women,150.97
+202,East,Clothing,Women,255.25
+203,What,Clothing,Women,217.95
+204,Perhaps,Clothing,Women,397.58
+205,Order,Clothing,Women,61.63
+206,Little,Clothing,Women,329.08
+207,Present,Clothing,Women,439.46
+208,Drive,Clothing,Women,277.91
+209,Analysis,Clothing,Women,433.42
+210,Plant,Clothing,Women,217.88
+211,True,Clothing,Women,444.61
+212,Writer,Clothing,Women,209.84
+213,Since,Clothing,Women,414.57
+214,No,Clothing,Women,202.37
+215,  HOWEVER  ,Clothing,Women,366.16
+216,Figure,Clothing,Women,159.71
+217,Theory,Clothing,Women,159.7
+218,Well,Clothing,Women,131.17
+219,Experience,Clothing,Women,477.03
+220,Page,Clothing,Women,344.98
+221,Election,Clothing,Women,239.76
+222,  PRODUCT  ,Clothing,Women,50.16
+223,Decide,Clothing,Women,47.26
+224,Mother,Clothing,Women,218.78
+225,Professional,Clothing,Women,373.57
+226,Board Kid,Clothing,Kids,189.46
+227,Since Kid,Clothing,Kids,69.41
+228,Adult Kid,Clothing,Kids,34.69
+229,Everything Kid,Clothing,Kids,478.53
+230,Rise Kid,Clothing,Kids,283.03
+231,Response Kid,Clothing,Kids,336.66
+232,Candidate Kid,Clothing,Kids,208.35
+233,  FIRST KID  ,Clothing,Kids,437.44
+234,Thus Kid,Clothing,Kids,470.86
+235,Leave Kid,Clothing,Kids,214.35
+236,Level Kid,Clothing,Kids,458.34
+237,  THING KID  ,Clothing,Kids,30.47
+238,Discover Kid,Clothing,Kids,147.38
+239,Pay Kid,Clothing,Kids,159.66
+240,Pm Kid,Clothing,Kids,56.28
+241,Cup Kid,Clothing,Kids,256.17
+242,Five Kid,Clothing,Kids,81.59
+243,  SIMPLY KID  ,Clothing,Kids,243.68
+244,Each Kid,Clothing,Kids,424.4
+245,Next Kid,Clothing,Kids,178.31
+246,Stay Kid,Clothing,Kids,280.35
+247,  METHOD KID  ,Clothing,Kids,61.87
+248,Back Kid,Clothing,Kids,142.89
+249,Beautiful Kid,Clothing,Kids,116.95
+250,Hope Kid,Clothing,Kids,217.41
+251,Thus Kid,Clothing,Kids,282.68
+252,Letter Kid,Clothing,Kids,384.88
+253,Between Kid,Clothing,Kids,312.75
+254,Apply Kid,Clothing,Kids,339.11
+255,Different Kid,Clothing,Kids,280.59
+256,Human Kid,Clothing,Kids,306.45
+257,Situation Kid,Clothing,Kids,330.63
+258,  POWER KID  ,Clothing,Kids,348.27
+259,Girl Kid,Clothing,Kids,19.33
+260,Enough Kid,Clothing,Kids,140.27
+261,  WHOSE KID  ,Clothing,Kids,382.39
+262,According Kid,Clothing,Kids,461.16
+263,Subject Kid,Clothing,Kids,178.76
+264,Let Kid,Clothing,Kids,94.8
+265,Mind Kid,Clothing,Kids,75.91
+266,Can Kid,Clothing,Kids,330.39
+267,Scientist Kid,Clothing,Kids,39.44
+268,Work Kid,Clothing,Kids,371.78
+269,Significant Kid,Clothing,Kids,486.05
+270,Act Kid,Clothing,Kids,50.42
+271,Blue,Home,Furniture,267.59
+272,Seat,Home,Furniture,191.22
+273,Debate,Home,Furniture,229.55
+274,Game,Home,Furniture,82.92
+275,Wait,Home,Furniture,159.26
+276,Bill,Home,Furniture,165.57
+277,Produce,Home,Furniture,471.0
+278,Memory,Home,Furniture,300.13
+279,Manager,Home,Furniture,442.25
+280,Information,Home,Furniture,82.01
+281,Its,Home,Furniture,378.45
+282,Especially,Home,Furniture,29.63
+283,Until,Home,Furniture,45.38
+284,Mean,Home,Furniture,224.34
+285,Seat,Home,Furniture,214.89
+286,Decade,Home,Furniture,305.5
+287,Wide,Home,Furniture,210.02
+288,Call,Home,Furniture,111.71
+289,Kid,Home,Furniture,258.61
+290,Account,Home,Furniture,175.86
+291,Life,Home,Furniture,59.89
+292,See,Home,Furniture,340.72
+293,Task,Home,Furniture,298.6
+294,Federal,Home,Furniture,265.83
+295,Already,Home,Furniture,157.67
+296,By,Home,Furniture,114.16
+297,Listen,Home,Furniture,492.3
+298,Rich,Home,Furniture,32.12
+299,Kid,Home,Furniture,106.19
+300,Throughout,Home,Furniture,472.94
+301,Weight,Home,Furniture,384.84
+302,Phone,Home,Furniture,383.26
+303,Difference,Home,Furniture,148.28
+304,Wife,Home,Furniture,64.39
+305,  FLOOR  ,Home,Furniture,251.21
+306,Natural,Home,Furniture,218.17
+307,Spring,Home,Furniture,68.95
+308,  ARM  ,Home,Furniture,268.63
+309,Over,Home,Furniture,118.9
+310,Difficult,Home,Furniture,281.57
+311,Laugh,Home,Furniture,335.68
+312,Participant,Home,Furniture,180.31
+313,  DO  ,Home,Furniture,201.55
+314,Structure,Home,Furniture,372.31
+315,Set,Home,Furniture,220.93
+316,Support,Home,Kitchen,232.58
+317,Alone,Home,Kitchen,43.54
+318,Forward,Home,Kitchen,159.97
+319,School,Home,Kitchen,217.5
+320,Whom,Home,Kitchen,205.19
+321,Cause,Home,Kitchen,321.87
+322,Per,Home,Kitchen,148.31
+323,Across,Home,Kitchen,205.49
+324,Professor,Home,Kitchen,483.27
+325,Job,Home,Kitchen,90.08
+326,Worry,Home,Kitchen,474.07
+327,Dream,Home,Kitchen,232.75
+328,Old,Home,Kitchen,346.36
+329,  SOMETIMES  ,Home,Kitchen,184.12
+330,  DEVELOP  ,Home,Kitchen,221.17
+331,Scene,Home,Kitchen,57.4
+332,Next,Home,Kitchen,220.66
+333,Standard,Home,Kitchen,203.22
+334,At,Home,Kitchen,43.93
+335,Trade,Home,Kitchen,435.91
+336,Rock,Home,Kitchen,374.17
+337,Admit,Home,Kitchen,114.68
+338,Data,Home,Kitchen,390.66
+339,Fine,Home,Kitchen,42.81
+340,Rather,Home,Kitchen,318.45
+341,Heavy,Home,Kitchen,267.65
+342,  GREEN  ,Home,Kitchen,100.98
+343,Let,Home,Kitchen,389.23
+344,Inside,Home,Kitchen,178.79
+345,Often,Home,Kitchen,479.32
+346,High,Home,Kitchen,324.49
+347,  OWN  ,Home,Kitchen,78.11
+348,Charge,Home,Kitchen,55.89
+349,Number,Home,Kitchen,131.7
+350,  POLITICS  ,Home,Kitchen,90.88
+351,Result,Home,Kitchen,80.67
+352,  WIFE  ,Home,Kitchen,380.78
+353,Hold,Home,Kitchen,42.3
+354,Hundred,Home,Kitchen,475.89
+355,When,Home,Kitchen,315.83
+356,Phone,Home,Kitchen,234.66
+357,Make,Home,Kitchen,284.05
+358,Go,Home,Kitchen,291.84
+359,Key,Home,Kitchen,342.16
+360,World,Home,Kitchen,441.61
+361,Want,Home,Decor,323.28
+362,Who,Home,Decor,493.33
+363,Surface,Home,Decor,164.99
+364,Physical,Home,Decor,485.63
+365,  WOULD  ,Home,Decor,161.49
+366,Alone,Home,Decor,222.68
+367,Else,Home,Decor,237.12
+368,Pay,Home,Decor,317.54
+369,Day,Home,Decor,399.18
+370,Base,Home,Decor,297.75
+371,  EVIDENCE  ,Home,Decor,179.21
+372,Reality,Home,Decor,41.72
+373,Green,Home,Decor,233.56
+374,  BELIEVE  ,Home,Decor,23.62
+375,Matter,Home,Decor,187.53
+376,Daughter,Home,Decor,147.1
+377,Raise,Home,Decor,324.11
+378,Number,Home,Decor,488.8
+379,Surface,Home,Decor,49.7
+380,Face,Home,Decor,299.07
+381,Development,Home,Decor,195.32
+382,Answer,Home,Decor,292.26
+383,  WALK  ,Home,Decor,477.34
+384,  OPTION  ,Home,Decor,370.77
+385,Social,Home,Decor,25.31
+386,Itself,Home,Decor,454.98
+387,Property,Home,Decor,287.97
+388,Prevent,Home,Decor,98.18
+389,Box,Home,Decor,304.48
+390,  INTERVIEW  ,Home,Decor,253.18
+391,Shake,Home,Decor,479.07
+392,Well,Home,Decor,228.01
+393,Father,Home,Decor,406.43
+394,Maintain,Home,Decor,419.5
+395,  SEE  ,Home,Decor,491.28
+396,Visit,Home,Decor,46.74
+397,Bit,Home,Decor,324.83
+398,Spring,Home,Decor,24.38
+399,Friend,Home,Decor,355.27
+400,Government,Home,Decor,495.54
+401,Window,Home,Decor,264.41
+402,Public,Home,Decor,306.85
+403,  VISIT  ,Home,Decor,185.13
+404,Quite,Home,Decor,459.38
+405,Answer,Home,Decor,196.77
+406,Color,Books,Fiction,388.36
+407,  REDUCE  ,Books,Fiction,341.05
+408,Day,Books,Fiction,30.92
+409,Many,Books,Fiction,317.29
+410,According,Books,Fiction,170.65
+411,Stand,Books,Fiction,168.2
+412,Nation,Books,Fiction,281.19
+413,  TREE  ,Books,Fiction,196.35
+414,  SHOW  ,Books,Fiction,129.74
+415,Positive,Books,Fiction,426.53
+416,  ARGUE  ,Books,Fiction,482.38
+417,Language,Books,Fiction,303.34
+418,Machine,Books,Fiction,79.43
+419,Both,Books,Fiction,45.34
+420,Son,Books,Fiction,333.49
+421,Say,Books,Fiction,458.79
+422,Century,Books,Fiction,158.56
+423,Alone,Books,Fiction,329.75
+424,Safe,Books,Fiction,332.76
+425,Number,Books,Fiction,68.83
+426,Compare,Books,Fiction,355.87
+427,Probably,Books,Fiction,46.94
+428,Listen,Books,Fiction,281.67
+429,Interview,Books,Fiction,323.53
+430,Bed,Books,Fiction,167.6
+431,Particularly,Books,Fiction,68.26
+432,Far,Books,Fiction,352.9
+433,  FOLLOW  ,Books,Fiction,473.82
+434,Discussion,Books,Fiction,498.6
+435,Two,Books,Fiction,456.66
+436,Really,Books,Fiction,51.26
+437,Property,Books,Fiction,336.88
+438,Someone,Books,Fiction,256.7
+439,Mr,Books,Fiction,14.02
+440,Next,Books,Fiction,157.89
+441,  SONG  ,Books,Fiction,475.83
+442,Build,Books,Fiction,174.16
+443,Whole,Books,Fiction,384.25
+444,Old,Books,Fiction,100.04
+445,Successful,Books,Fiction,499.99
+446,  NAME  ,Books,Fiction,81.7
+447,Radio,Books,Fiction,151.42
+448,Building,Books,Fiction,395.12
+449,Best,Books,Fiction,256.31
+450,More,Books,Fiction,272.19
+451,  PROCESS  ,Books,Non-Fiction,370.63
+452,  TEND  ,Books,Non-Fiction,265.63
+453,Traditional,Books,Non-Fiction,332.65
+454,Management,Books,Non-Fiction,438.81
+455,Far,Books,Non-Fiction,310.93
+456,Prepare,Books,Non-Fiction,300.64
+457,Nor,Books,Non-Fiction,81.36
+458,Your,Books,Non-Fiction,94.52
+459,Trip,Books,Non-Fiction,347.96
+460,Yet,Books,Non-Fiction,314.25
+461,Any,Books,Non-Fiction,451.81
+462,Between,Books,Non-Fiction,361.99
+463,Film,Books,Non-Fiction,26.63
+464,Reason,Books,Non-Fiction,185.33
+465,  CELL  ,Books,Non-Fiction,361.19
+466,  EDGE  ,Books,Non-Fiction,484.95
+467,Continue,Books,Non-Fiction,307.24
+468,Federal,Books,Non-Fiction,377.43
+469,Maintain,Books,Non-Fiction,392.98
+470,Accept,Books,Non-Fiction,120.83
+471,Try,Books,Non-Fiction,123.39
+472,Community,Books,Non-Fiction,482.97
+473,I,Books,Non-Fiction,393.26
+474,Child,Books,Non-Fiction,452.47
+475,Else,Books,Non-Fiction,101.04
+476,Study,Books,Non-Fiction,340.76
+477,Forward,Books,Non-Fiction,287.36
+478,Author,Books,Non-Fiction,223.1
+479,Free,Books,Non-Fiction,385.87
+480,Wall,Books,Non-Fiction,390.17
+481,Party,Books,Non-Fiction,253.94
+482,By,Books,Non-Fiction,212.24
+483,Information,Books,Non-Fiction,85.22
+484,While,Books,Non-Fiction,103.85
+485,Level,Books,Non-Fiction,304.31
+486,Two,Books,Non-Fiction,437.14
+487,Detail,Books,Non-Fiction,30.83
+488,Beautiful,Books,Non-Fiction,242.89
+489,Financial,Books,Non-Fiction,188.75
+490,Position,Books,Non-Fiction,467.48
+491,Cold,Books,Non-Fiction,357.14
+492,Effort,Books,Non-Fiction,260.38
+493,Size,Books,Non-Fiction,66.72
+494,Happen,Books,Non-Fiction,46.52
+495,Culture,Books,Non-Fiction,84.35
+496,Argue Comic,Books,Comics,227.41
+497,Way Comic,Books,Comics,259.11
+498,Federal Comic,Books,Comics,416.37
+499,Like Comic,Books,Comics,50.4
+500,Make Comic,Books,Comics,455.7
+501,Contain Comic,Books,Comics,409.27
+502,Community Comic,Books,Comics,442.89
+503,Accept Comic,Books,Comics,465.58
+504,Worker Comic,Books,Comics,210.37
+505,Oil Comic,Books,Comics,201.24
+506,Thank Comic,Books,Comics,190.11
+507,Build Comic,Books,Comics,196.15
+508,First Comic,Books,Comics,45.39
+509,Open Comic,Books,Comics,116.15
+510,Under Comic,Books,Comics,162.75
+511,Ever Comic,Books,Comics,54.05
+512,Add Comic,Books,Comics,358.78
+513,Thing Comic,Books,Comics,170.97
+514,Decision Comic,Books,Comics,77.29
+515,Result Comic,Books,Comics,23.96
+516,Away Comic,Books,Comics,459.11
+517,Month Comic,Books,Comics,238.87
+518,Thank Comic,Books,Comics,416.4
+519,  KID COMIC  ,Books,Comics,380.63
+520,Television Comic,Books,Comics,237.21
+521,Law Comic,Books,Comics,309.6
+522,Defense Comic,Books,Comics,453.4
+523,Drug Comic,Books,Comics,14.41
+524,Within Comic,Books,Comics,111.75
+525,Be Comic,Books,Comics,79.01
+526,College Comic,Books,Comics,470.41
+527,Film Comic,Books,Comics,306.4
+528,Conference Comic,Books,Comics,214.51
+529,Store Comic,Books,Comics,389.21
+530,  FINALLY COMIC  ,Books,Comics,122.63
+531,Cover Comic,Books,Comics,65.31
+532,Since Comic,Books,Comics,123.03
+533,Ago Comic,Books,Comics,321.28
+534,Head Comic,Books,Comics,313.29
+535,Life Comic,Books,Comics,36.09
+536,  PLANT COMIC  ,Books,Comics,419.16
+537,Speak Comic,Books,Comics,252.42
+538,Care Comic,Books,Comics,270.35
+539,Response Comic,Books,Comics,317.82
+540,Soon Comic,Books,Comics,289.65

@@ -1,0 +1,7 @@
+
+Data Cleaning Report
+---------------------
+Orders with missing customer_id : 30
+Invalid emails                  : 5
+Negative quantity rows          : 58
+Orphan order_items rows         : 0
